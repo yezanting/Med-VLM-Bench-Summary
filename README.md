@@ -4,14 +4,21 @@
 
 ---
 
-## 👨‍💻 Authors
+## 👨‍💻 Contributors
 
-| Name            | Affiliation                     | Contact                         |
-|-----------------|----------------------------------|----------------------------------|
-| Zanting Ye      | Southern Medical University     | yzt2861252880@gmail.com         |
-| Xu Han          | Shanghai Jiao Tong University   | hanxv8826@gmail.com             |
-| Xiaolong Niu    | Southern Medical University     | -                                |
-| Lijun Lu        | Southern Medical University     | -                                |
+- 🧑‍🔬 **Zanting Ye**  
+  Southern Medical University  
+  📧 yzt2861252880@gmail.com
+
+- 🧑‍💻 **Xu Han**  
+  Shanghai Jiao Tong University  
+  📧 hanxv8826@gmail.com
+
+- 🧑‍💼 **Xiaolong Niu**  
+  Southern Medical University  
+
+- 🎓 **Lijun Lu**  
+  Southern Medical University
 
 ---
 
