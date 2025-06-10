@@ -2,32 +2,27 @@
 A Curated Benchmark Repository for Medical Vision-Language Models
 # 🧠 Med-VLM-Bench: A Curated Benchmark Repository for Medical Vision-Language Models
 
-by  
-**Zanting Ye** (Southern Medical University)  
-**Xu Han** (Shanghai Jiao Tong University)  
-**Xiaolong Niu** (Southern Medical University)  
-**Lijun Lu** (Southern Medical University)
-
-![Stars](https://img.shields.io/github/stars/ZantingYe/Med-VLM-Bench-Summary?style=social)  
-![Forks](https://img.shields.io/github/forks/ZantingYe/Med-VLM-Bench-Summary?style=social)  
-![License](https://img.shields.io/github/license/ZantingYe/Med-VLM-Bench-Summary)  
-![Last Commit](https://img.shields.io/github/last-commit/ZantingYe/Med-VLM-Bench-Summary)
+📚 A comprehensive summary of recent benchmarks for evaluating and training Medical Vision-Language Models (Med-VLMs)
 
 ---
 
-🌐 [English Version](#english-version) | 🌏 [中文版](#中文版本)
+## 👨‍💻 Authors
 
-<details>
-<summary>📚 Table of Contents</summary>
+| Name            | Affiliation                     | Contact                         |
+|-----------------|----------------------------------|----------------------------------|
+| Zanting Ye      | Southern Medical University     | yzt2861252880@gmail.com         |
+| Xu Han          | Shanghai Jiao Tong University   | hanxv8826@gmail.com             |
+| Xiaolong Niu    | Southern Medical University     | -                                |
+| Lijun Lu        | Southern Medical University     | -                                |
 
-- [🔍 Project Overview](#-project-overview)
-- [📊 Dataset Summary Table](#-dataset-summary-table)
-- [🇨🇳 中文版本](#-中文版本)
-  - [🔍 项目简介](#-项目简介)
-  - [📊 数据集汇总表](#-数据集汇总表)
-- [📬 联系方式](#-联系方式)
+---
 
-</details>
+## 📊 GitHub Stats
+
+![Stars](https://img.shields.io/github/stars/yezanting/Med-VLM-Bench-Summary?style=social)
+![Forks](https://img.shields.io/github/forks/yezanting/Med-VLM-Bench-Summary?style=social)
+![License](https://img.shields.io/github/license/yezanting/Med-VLM-Bench-Summary)
+![Last Commit](https://img.shields.io/github/last-commit/yezanting/Med-VLM-Bench-Summary)
 
 ---
 
