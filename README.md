@@ -10,14 +10,14 @@
   Southern Medical University  
   📧 yzt2861252880@gmail.com
 
-- 🧑‍💻 **Xu Han**  
+- 🧑‍🔬 **Xu Han**  
   Shanghai Jiao Tong University  
   📧 hanxv8826@gmail.com
 
-- 🧑‍💼 **Xiaolong Niu**  
+- 🧑‍🔬 **Xiaolong Niu**  
   Southern Medical University  
 
-- 🎓 **Lijun Lu**  
+- 👨‍🏫 **Lijun Lu**  
   Southern Medical University
 
 ---
