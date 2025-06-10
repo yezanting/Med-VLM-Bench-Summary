@@ -8,10 +8,10 @@ by
 **Xiaolong Niu** (Southern Medical University)  
 **Lijun Lu** (Southern Medical University)
 
-![Stars](https://img.shields.io/github/stars/ZantingYe/Med-VLM-Bench?style=social)  
-![Forks](https://img.shields.io/github/forks/ZantingYe/Med-VLM-Bench?style=social)  
-![License](https://img.shields.io/github/license/ZantingYe/Med-VLM-Bench)  
-![Last Commit](https://img.shields.io/github/last-commit/ZantingYe/Med-VLM-Bench)
+![Stars](https://img.shields.io/github/stars/ZantingYe/Med-VLM-Bench-Summary?style=social)  
+![Forks](https://img.shields.io/github/forks/ZantingYe/Med-VLM-Bench-Summary?style=social)  
+![License](https://img.shields.io/github/license/ZantingYe/Med-VLM-Bench-Summary)  
+![Last Commit](https://img.shields.io/github/last-commit/ZantingYe/Med-VLM-Bench-Summary)
 
 ---
 
