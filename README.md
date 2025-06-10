@@ -35,8 +35,9 @@ With the continuous advancement of research on Medical Vision-Language Models (M
 - 🧠 Foundational datasets from 2023–2024
 - 🔗 Direct access to dataset links or HuggingFace/GitHub repositories
 
--💡 Our knowledge is limited to public sources. We welcome community contributions — feel free to open an issue to share new datasets, and we will update promptly. 
--📌Note: The annotation time of the dataset is based on the publication time of the corresponding article.
+💡 Our knowledge is limited to public sources. We welcome community contributions — feel free to open an issue to share new datasets, and we will update promptly. 
+
+📌Note: The annotation time of the dataset is based on the publication time of the corresponding article.
 
 ---
 
@@ -75,8 +76,9 @@ With the continuous advancement of research on Medical Vision-Language Models (M
 - 🧪 同时覆盖 2023–2024 年的经典Med LLM/VLM benchmark datasets
 - 🔗 提供直接可用的下载链接和开源地址
 
--💡 我们的知识来源有限，欢迎大家通过 Issue 或 PR 推荐更多数据集，我们会第一时间更新！
--📌Note: 此外我们的数据集标注时间以相应文章发表时间为准
+💡 我们的知识来源有限，欢迎大家通过 Issue 或 PR 推荐更多数据集，我们会第一时间更新！
+
+📌Note: 此外我们的数据集标注时间以相应文章发表时间为准
 
 ---
 
