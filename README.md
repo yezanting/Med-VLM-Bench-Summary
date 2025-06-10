@@ -1,5 +1,3 @@
-# Med-VLM-Bench-Summary
-A Curated Benchmark Repository for Medical Vision-Language Models
 # 🧠 Med-VLM-Bench: A Curated Benchmark Repository for Medical Vision-Language Models
 
 📚 A comprehensive summary of recent benchmarks for evaluating and training Medical Vision-Language Models (Med-VLMs)
