@@ -153,9 +153,9 @@ With the continuous advancement of research on Medical Vision-Language Models (M
 
 ---
 
-## ⭐ Star 趋势图
+## ⭐ (Star 趋势图) Star History
 
-[[Star History Chart](https://api.star-history.com/svg?repos=yezanting/Med-VLM-Bench-Summary&type=Date)](https://star-history.com/#yezanting/Med-VLM-Bench-Summary&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=yezanting/Med-VLM-Bench-Summary&type=Date)
 
 ---
 
