@@ -15,7 +15,10 @@
   📧 hanxv8826@gmail.com
 
 - 🧑‍🔬 **Xiaolong Niu**  
-  Southern Medical University  
+  Southern Medical University
+
+- 🧑‍🔬 **Zian Wang**  
+  Shanghai Jiao Tong University 
 
 - 👨‍🏫 **Lijun Lu**  
   Southern Medical University
@@ -163,6 +166,12 @@ With the continuous advancement of research on Medical Vision-Language Models (M
           <img src="https://github.com/Long0121.png" width="80px;" alt="lailainan"/><br />
           <sub><b>牛小龙(Xiaolong Niu)</b></sub><br />
           <a href="">📧</a>
+     </td>
+        <td align="center">
+          <a href="https://github.com/zianwang1110">
+          <img src="https://github.com/zianwang1110.png" width="80px;" alt="lailainan"/><br />
+          <sub><b>王梓安(Zian Wang)</b></sub><br />
+          <a href="">📧</a>  
       </a>
     </td>
   </tr>
