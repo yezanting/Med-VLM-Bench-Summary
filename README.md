@@ -147,15 +147,22 @@ With the continuous advancement of research on Medical Vision-Language Models (M
     <td align="center">
       <a href="https://github.com/yezanting">
         <img src="https://github.com/yezanting.png" width="80px;" alt="yezanting"/><br />
-        <sub><b>叶赞挺</b></sub><br />
+        <sub><b>叶赞挺(Zanting Ye)</b></sub><br />
         <a href="mailto:yzt2861252880@gmail.com">📧</a>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/lailainan">
         <img src="https://github.com/lailainan.png" width="80px;" alt="lailainan"/><br />
-        <sub><b>韩绪</b></sub><br />
+        <sub><b>韩绪(Xu Han)</b></sub><br />
         <a href="mailto:hanxv8826@gmail.com">📧</a>
+      </a>
+    </td>
+        <td align="center">
+          <a href="https://github.com/Long0121">
+          <img src="https://github.com/Long0121.png" width="80px;" alt="lailainan"/><br />
+          <sub><b>牛小龙(Xiaolong Niu)</b></sub><br />
+          <a href="">📧</a>
       </a>
     </td>
   </tr>
