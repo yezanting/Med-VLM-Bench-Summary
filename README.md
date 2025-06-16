@@ -121,12 +121,43 @@ With the continuous advancement of research on Medical Vision-Language Models (M
 
 ---
 
-## 📬 联系方式
+## 📬 联系我们 / Issues & Contact
 
-如有任何问题欢迎联系或提交 Issue：
+如有任何问题欢迎提交 Issue 或通过邮件联系：
 
-- 📧 叶赞挺 (Zanting Ye): yzt2861252880@gmail.com  
-- 📧 韩绪 (Xu Han): hanxv8826@gmail.com
+- 📧 **叶赞挺 (Zanting Ye)**: yzt2861252880@gmail.com  
+- 📧 **韩绪 (Xu Han)**: hanxv8826@gmail.com
+
+---
+
+## 👥 合作者（Contributors）
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yezanting">
+        <img src="https://github.com/yezanting.png" width="80px;" alt="yezanting"/><br />
+        <sub><b>叶赞挺</b></sub><br />
+        <a href="mailto:yzt2861252880@gmail.com">📧</a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lailainan">
+        <img src="https://github.com/lailainan.png" width="80px;" alt="lailainan"/><br />
+        <sub><b>韩绪</b></sub><br />
+        <a href="mailto:hanxv8826@gmail.com">📧</a>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⭐ Star 趋势图
+
+[[Star History Chart](https://api.star-history.com/svg?repos=yezanting/Med-VLM-Bench-Summary&type=Date)](https://star-history.com/#yezanting/Med-VLM-Bench-Summary&Date)
+
+---
 
 ---
 
