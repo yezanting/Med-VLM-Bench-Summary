@@ -22,6 +22,9 @@
 
 - 👨‍🏫 **Lijun Lu**  
   Southern Medical University
+  
+- 🧑‍🔬 **Shengyuan Liu**  
+  The Chinese University of Hong Kong   
 
 ---
 
@@ -74,7 +77,8 @@ With the continuous advancement of research on Medical Vision-Language Models (M
 | PubMedVision        | [HuatuoGPT-Visionn, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale](https://arxiv.org/abs/2406.19280)                         | 2024.09.30 | Image + Text (Multimodal) | Medical VQA (Alignment VQA, Instruction-Tuning VQA), Captioning, Summarization | 1.3M VQA samples from 914,960 filtered PubMed medical images & text (647K + 647K)     | [Hugging Face](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision)|
 | PMC-VQA            | PMC-VQA: Visual Instruction Tuning for Medical VQA                                                       | 2024.08.08              | Image + Text               | VQA                            | 226,946 QA pairs              | [HF](https://huggingface.co/datasets/RadGenome/PMC-VQA)                                            |
 | VQARad             | - | 2023.08.07              | Radiography                | VQA                            | 315 images, 3,515 QAs         | [OSF](https://osf.io/89kps/)                                                                         |
-| Asclepius Synthetic Clinical Notes | [Publicly Shareable Clinical Large Language Model Built on Synthetic Clinical Notes](https://arxiv.org/abs/2309.00237) | ACL2024 | Text (Clinical Notes + QA Instructions) | Clinical NLP, Summarization, NER, QA, Abbreviation Expansion, etc. | 158K synthetic discharge summaries with instruction-answer pairs covering 8 clinical NLP tasks | [GitHub](https://github.com/starmpcc/Asclepius), [Data Link](https://huggingface.co/datasets/starmpcc/Asclepius-Synthetic-Clinical-Notes) |
+|  Asclepius | [Asclepius: A Spectrum Evaluation Benchmark for Medical Multi-Modal Large Language Models](https://arxiv.org/abs/2402.11217) | ACL 2025 | Image + Text | VQA | 3232 VQA pairs encompassing 15 medical specialties, stratifying into 3 main categories and 8 sub-categories of clinical tasks | [GitHub](https://github.com/Asclepius-Med/Asclepius) |
+|  MedTrinity-25M | [MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine](https://yunfeixie233.github.io/MedTrinity-25M/) | ICLR 2025 | Image + Text | VQA | 25M VQA pairs, covering over 25 million images across 10 modalities | [HF](https://huggingface.co/datasets/UCSC-VLAA/MedTrinity-25M) |
 | GMAI-MMBench       | GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI                     | NeurIPS 2024            | Multi-modal (38 types)     | VQA                            | 26K QA pairs                  | [HF](https://huggingface.co/datasets/OpenGVLab/GMAI-MMBench)                                       |
 | PathMMU            | PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology       | 2024.03.20              | Pathology Image + Text     | Multi-choice, Reasoning        | 33,428 QAs, 24,067 images     | [HF](https://huggingface.co/datasets/jamessyx/PathMMU)                                             |
 | OmniMedVQA         | OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM                          | CVPR 2024               | Multi-modal (12 types)     | VQA                            | 118,010 images, 127,995 QA    | [OpenXLab](https://openxlab.org.cn/datasets/GMAI/OmniMedVQA)                                       |
@@ -125,7 +129,8 @@ With the continuous advancement of research on Medical Vision-Language Models (M
 | PubMedVision         | [HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale](https://arxiv.org/abs/2406.19280)                         | 2024.09.30 | 图像 + 文本（多模态）     | 医学视觉问答（VQA）、图文对齐、指令微调、描述生成等                         | 130 万 VQA 样本，来自 PubMed 中筛选的 91.5 万医学图像与上下文（647K + 647K）        | [HF](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision)      |
 | PMC-VQA            | PMC-VQA: Visual Instruction Tuning for Medical VQA                                 | 2024.08.08                | 图像 + 文本               | 医学VQA                         | 226,946问答对                  | [HF](https://huggingface.co/datasets/RadGenome/PMC-VQA)                                          |
 | VQARad             |-| 2023.08.07                | 放射图像                  | VQA                             | 315图像, 3515问答              | [OSF](https://osf.io/89kps/)                                                                       |
-|  Asclepius Synthetic Clinical Notes | [Publicly Shareable Clinical Large Language Model Built on Synthetic Clinical Notes](https://arxiv.org/abs/2309.00237) | ACL 2025 | 文本（临床笔记 + 问答指令） | 临床 NLP、摘要生成、命名实体识别、问答、缩写扩展等 | 包含 158,000 条合成出院小结与对应指令-回答对，覆盖 8 类临床任务 | [GitHub](https://github.com/starmpcc/Asclepius)， [Data Link](https://huggingface.co/datasets/starmpcc/Asclepius-Synthetic-Clinical-Notes) |
+|  Asclepius | [Asclepius: A Spectrum Evaluation Benchmark for Medical Multi-Modal Large Language Models](https://arxiv.org/abs/2402.11217) | ACL 2025 | 图像 + 文本 | 医学VQA | 3232条问答对，涵盖 15 个医学专业，分为 3 个主要类别和 8 个子类别的临床任务 | [GitHub](https://github.com/Asclepius-Med/Asclepius) |
+|  MedTrinity-25M | [MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine](https://yunfeixie233.github.io/MedTrinity-25M/) | ICLR 2025 | 图像 + 文本 | 医学VQA | 大规模医学多模态数据集，涵盖 10 种模态的2500万张图像，为65种疾病提供多粒度注释 | [HF](https://huggingface.co/datasets/UCSC-VLAA/MedTrinity-25M) |
 | GMAI-MMBench       | GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI | NeurIPS 2024          | 多模态（38种）            | 医学VQA                         | 26K问答对                      | [HF](https://huggingface.co/datasets/OpenGVLab/GMAI-MMBench)                                     |
 | PathMMU            | PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Patholog | 2024.03.20      | 病理图像 + 文本           | 选择题+推理                     | 33,428问答, 24,067图像         | [HF](https://huggingface.co/datasets/jamessyx/PathMMU)                                           |
 | OmniMedVQA         | OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM    | CVPR 2024                 | 多模态（12种）            | 医学VQA                         | 118,010图像, 127,995问答       | [OpenXLab](https://openxlab.org.cn/datasets/GMAI/OmniMedVQA)                                     |
@@ -172,6 +177,13 @@ With the continuous advancement of research on Medical Vision-Language Models (M
           <img src="https://github.com/zianwang1110.png" width="80px;" alt="lailainan"/><br />
           <sub><b>王梓安(Zian Wang)</b></sub><br />
           <a href="">📧</a>  
+      </a>
+    </td>
+        <td align="center">
+          <a href="https://github.com/Saint-lsy">
+          <img src="https://github.com/Saint-lsy.png" width="80px;" alt="lailainan"/><br />
+          <sub><b>刘圣圆(Shengyuan Liu)</b></sub><br />
+          <a href="liushengyuan@link.cuhk.edu.hk">📧</a> 
       </a>
     </td>
   </tr>
