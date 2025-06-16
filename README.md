@@ -20,7 +20,7 @@
 - 🧑‍🔬 **Zian Wang**  
   Shanghai Jiao Tong University
   
-  - 🧑‍🔬 **Shengyuan Liu**  
+- 🧑‍🔬 **Shengyuan Liu**  
   The Chinese University of Hong Kong   
 
 - 👨‍🏫 **Lijun Lu**  
