@@ -18,13 +18,15 @@
   Southern Medical University
 
 - 🧑‍🔬 **Zian Wang**  
-  Shanghai Jiao Tong University 
+  Shanghai Jiao Tong University
+  
+  - 🧑‍🔬 **Shengyuan Liu**  
+  The Chinese University of Hong Kong   
 
 - 👨‍🏫 **Lijun Lu**  
   Southern Medical University
   
-- 🧑‍🔬 **Shengyuan Liu**  
-  The Chinese University of Hong Kong   
+
 
 ---
 
