@@ -22,7 +22,7 @@
   
 - 🧑‍🔬 **Shengyuan Liu**  
   The Chinese University of Hong Kong   
-
+  📧 liushengyuan@link.cuhk.edu.hk
 - 👨‍🏫 **Lijun Lu**  
   Southern Medical University
   
