@@ -23,6 +23,11 @@
 - 🧑‍🔬 **Shengyuan Liu**  
   The Chinese University of Hong Kong   
   📧 liushengyuan@link.cuhk.edu.hk
+  
+- 🧑‍🔬 **Xin Liu**  
+  Southern Medical University    
+  📧 lx10230114@gmail.com
+  
 - 👨‍🏫 **Lijun Lu**  
   Southern Medical University
   
@@ -46,7 +51,7 @@ With the continuous advancement of research on Medical Vision-Language Models (M
 **Med-VLM-Bench** is a curated, continuously updated repository of the latest and most important datasets for training and evaluating medical LLMs and VLMs. This project focuses on:
 
 - ✅ Reasoning-centric multimodal benchmarks
-- 📅 Latest datasets published in Mar–May 2025
+- 📅 Latest datasets published in Mar 2025–2026
 - 🧠 Foundational datasets from 2023–2024
 - 🔗 Direct access to dataset links or HuggingFace/GitHub repositories
 
@@ -59,6 +64,7 @@ With the continuous advancement of research on Medical Vision-Language Models (M
 ### 📢 News
 
 #### 🌟 Latest Updates
+- **2026-01-21**: 🎉 Added some recent datasets and benchmarks!Check it out for detailed information and download links!
 - **2025-06-29**: 🎉 Added new datasets/benchmarks AbdomenAtlas 3.0 (ICCV2025), Derm1M(ICCV2025), MedTVT-R1, , GEMeX(ICCV2025) and HIE-Reasoning(ICML2025). Check it out for detailed information and download links!
 - **2025-06-18**: 🎉 Added new datasets/benchmarks Lingshu, ReasonMed. Check it out for detailed information and download links!
 - **2025-06-11**: 🎉 Added some recent datasets and benchmarks!
@@ -138,7 +144,7 @@ With the continuous advancement of research on Medical Vision-Language Models (M
 
 **Med-VLM-Bench** 致力于汇总并整理这些模型训练与评估的关键资源：
 
-- ✅ 聚焦 2025 年 3–6 月发布的新数据集  
+- ✅ 聚焦 2025 年 3月–2026年发布的新数据集  
 - 🧠 重点强调推理能力、多模态理解和问答能力的数据集 
 - 🧪 同时覆盖 2023–2024 年的经典Med LLM/VLM benchmark datasets
 - 🔗 提供直接可用的下载链接和开源地址
